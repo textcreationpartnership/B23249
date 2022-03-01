@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From aboard the Van-Herring, being a full relation of the present state and sad condition of that ship. In a new letter from Legorn, to a merchant in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23249</idno>
+            <idno type="OCLC"> 10329886</idno>
+            <idno type="STC">Wing F2239</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.1*.[21]</idno>
+            <idno type="STC">ESTC R28027</idno>
+            <idno type="EEBO-CITATION">99889529</idno>
+            <idno type="PROQUEST">ocm99889529</idno>
+            <idno type="VID">186804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186804)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:4[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From aboard the Van-Herring, being a full relation of the present state and sad condition of that ship. In a new letter from Legorn, to a merchant in London.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns the Popish Plot.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:186804:1" rendition="simple:additions"/>
+            <head>From Aboard The Van-Herring, Being a full Relation of the preſent State and ſad Condition of that Ship.</head>
+            <head type="sub">In a New Letter from <hi>Legorn,</hi> to a Merchant in <hi>London.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce what I have formerly imparted to you was ſo well accepted, I have thought good to continue my correſ<g ref="char:EOLhyphen"/>pondence with you, by relating ſeveral things that have fallen out on Board us ſince my laſt: I told you then, that the great Coun<g ref="char:EOLhyphen"/>cel of Officers was called, whereby the Say<g ref="char:EOLhyphen"/>lers hoped to have had the Ship put into <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uch a condition, as not to have fear'd the attempts either of the <hi>Mahometans</hi> or the <hi>Algerines,</hi> but might have rendred the hopes of the one, and the expectations of the other fruſtrated; our hopes hereof were very much heightned, when at the opening of the Councel, the noble Captain gave them large aſſurance of his ready compliance with all the means they ſhould think convenient, to this end the Councel upon ſerious debate, and mature deliberation, came to this Reſolve, That the only way to ſecure the Ship, and the Chriſtian Religion, againſt the attempts of the <hi>Maho<g ref="char:EOLhyphen"/>metans,</hi> was by an order of the Captain and his Councel of Officers, to diſable the Lieute<g ref="char:EOLhyphen"/>nant from ſucceeding to the Captains place after the Captains death, all other ways being inſufficient and dangerous, like the falſe heal<g ref="char:EOLhyphen"/>ing of a Wound, or Building on a rotten Foun<g ref="char:EOLhyphen"/>dation: The Captain not liking their proceed<g ref="char:EOLhyphen"/>ing, ſent them word by an Officer, that a ſmall Pinnace belonging to the Ship, was in danger to be taken by ſome ſet on and incouraged as it's thought by the <hi>Mahometans</hi> and <hi>Algerines,</hi> eſpecially the latter, from whom it is thought they have been furniſhed with Powder, Shot, and Guns, wherewith to batter this Pinnace, and therefore he would have them let the Lieutenant alone, and bend all their thoughts to the defence of this Pinnace, ſince it was of ſo great conſequence to the <hi>Van-Herring,</hi> that if once loſt, we can never Trade into the Straits with ſafety: the Councel after a ſeri<g ref="char:EOLhyphen"/>ous debate on this Meſſage, reſolved to draw up an Addreſs to the Captain, wherein they aſſured him they would withal readineſs com<g ref="char:EOLhyphen"/>ply with the motion of relieving the Pinnace, if there might be a ſatisfying aſſurance given them, that it would be in order to the ſecu<g ref="char:EOLhyphen"/>ring the Old Ship, which they were humbly bold to tell him, they had found by woful ex<g ref="char:EOLhyphen"/>perience hitherto, to be altogether manned with, and mannaged by the <hi>Mahometans;</hi> and they appeal'd to the Captain himſelf, that he knew it was not long ſince one of the Arch-Traytors, now in the Hold, for endeavouring to Murther the Captain, and ſeize the Ship for the Lieutenant, ſayled in, and commanded this Pinnace; therefore ſince the whole Ship was in danger to be loſt, they could not ha<g ref="char:EOLhyphen"/>zard the whole Ship by endeavouring to re<g ref="char:EOLhyphen"/>lieve this Pinnace, which had been a Neſt of our implacable Enemies the <hi>Mahometans:</hi> they alſo with all humility ſhewed him, that all, or moſt of the ſupplies they had formerly given to maintain the Captains Honour, and the Ships ſafety, were abuſed by ill Officers, the deſign wholly inverted to ſerve the <hi>Mahome<g ref="char:EOLhyphen"/>tans</hi> intereſt. They told him alſo, that ſince the beſt defence this Ship had, was to endea<g ref="char:EOLhyphen"/>vour the advancing the Chriſtian Religion abroad, they admired to find his Officers en<g ref="char:EOLhyphen"/>deavouring to procure <hi>Mahometan Chappels</hi> in other Chriſtian Ships: they deſired alſo, that thoſe which endeavoured to render the en<g ref="char:EOLhyphen"/>deavours of this Councel, as dangerous to the Captains Intereſt, might be looked on by him as Enemies to him and his Government: The Councel have alſo puniſhed ſome perſons, that by obſtructing Petitions for the meeting of this Councel, have betrayed the Liberty of the Saylers, which we hope will have this good effect, that in the Vacanſy of Councel, there will be no more Abhorrors found amongſt us. They have alſo made ſeveral Addreſſes to the Captain, to remove from his Preſence ſeveral pernicious Officers, who by their fawning words, and flattering Councels, would draw his affection from the Loyal Sa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lers, one of them was chief Clark to the great Cabbine, him they have got removed, but the reſt re<g ref="char:EOLhyphen"/>main as they were, only one advanced by the influence of the Lieutenant to the dignity of chief Boat-Swain, was by the Councel of the lower Bench charged with Treaſon againſt the Captain, and betraying the Liberty of the Sa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lers, requiring to have him ſecured, but could not prevail; the Councel of the lower Bench after many debates and conſultations, drew up an order to diſable the Lieutenant to ſucceed to the Captains place after the Cap<g ref="char:EOLhyphen"/>tains death. Now Sir; I cannot tell you the
+<pb n="2" facs="tcp:186804:2" rendition="simple:additions"/>different humors that filled the Saylers; all men were big with expectation what would become of this order, when preſented to the Councel of the upper Bench, all perſwading themſelves it would be according to their own deſires; the Councel of the lower Bench hand<g ref="char:EOLhyphen"/>ed it to the Officers of the upper Bench, where the Captain ſat, where after ſome debate, it was rejected, to the great grief of the Chri<g ref="char:EOLhyphen"/>ſtian Saylers, and the Joy of the <hi>Mahometan</hi> Faction; the Officers of the Red Robe were indifferently divided, but thoſe of the White Robe, although they pretend to be the Pillars of the Chriſtian Religion, and have long been thought by ſome of the Saylers to be ſo; Yet now to convince the World, their own pre<g ref="char:EOLhyphen"/>tences were untrue, and the Saylers good opinion of them falſe; they moſt of them came in as a dead weight, and ſpeedily carried the Scale on the Lieutenants ſide, which is a thing ſo ſtrange, that it makes ſome of the Saylers think, that as they were the Relicks of the <hi>Mahometan</hi> ſuppreſſion, which remains unpurged, when the reſt of their Innovations were expelled this Ship; ſo they have ſecret inclinations to return again to the Obedience of the <hi>Mufty.</hi> Yet ſomething has been done to the diſcouraging the <hi>Mahomitans,</hi> and in<g ref="char:EOLhyphen"/>couraging the Chriſtian Saylers; for one of the Arch Traytors was at laſt brought to his Tryal before the Councel, and condemned to looſe his Head upon the Capſtorm, which was done accordingly; the Counſel notwithſtand<g ref="char:EOLhyphen"/>ing the rejecting the Order, conſulted of ſome other way to diſable the Lieutenant, which to prevent, the Captain minded them again of the danger of the Pinnis, whereupon they reſolved to draw up another Addreſs to the Captain, wherein they gave him great thanks for the care he had taken to prevent the <hi>Ma<g ref="char:EOLhyphen"/>hometan</hi> deſign, and his gracious promiſe of complying with all means they ſhould think convenient for ſecuring the Ship; yet they much grieved to find his promiſe ſo limited, as to render it wholly uſeleſs, by refuſing to grant that wherein alone our ſafety doth con<g ref="char:EOLhyphen"/>ſiſt, there being no ſafety to him or the Ship, until the Lieutenant be Excluded; all the An<g ref="char:EOLhyphen"/>ſwer the Captain returned, was, that the Councel of the upper Bench, by rejecting the Order, had confirmed him in an Opinion, that it is not his Intereſt to deſert the Lieutenant; the Counſel hereat amazed, after ſome De<g ref="char:EOLhyphen"/>bate, entred into the Journal of their Proceed<g ref="char:EOLhyphen"/>ings, That it is their Opinion, that there can be no ſecurity to the Captain, the Ship, or the Chriſtian Religion, without preventing the Lieutenant from being Captain; and that notwithſtanding the Captains promiſes of complying with all other ways of ſecuring us, that unleſs this Order be paſſed, they can give him no ſupplies, without Betraying the Cap<g ref="char:EOLhyphen"/>tains perſon, the Chriſtian Religion, and the truſt repoſed in them by the Saylers; and whoſoever ſhould adviſe the Captain to put off this Councel to any other purpoſe then to the making this Order, are betrayers of the Cap<g ref="char:EOLhyphen"/>tain, the Chriſtian Religion, and Promoters of and Pentioners to <hi>Argere,</hi> and that the thanks of this Bench be given to the Saylers in the great Cabbine, for their Loyalty to, and en<g ref="char:EOLhyphen"/>deavors for the preſervation of the Captain, and the Chriſtian Religion; immediately they were put off for a few days, which the <hi>Maho<g ref="char:EOLhyphen"/>metans</hi> have the impudence to ſay, it was done in favour to them, but the Loyal Saylers hope the contrary, and that it is only to give the Councel an occaſion to bring in the Order again; yet the Saylers of the great Cabbine, fearing the <hi>Mahometans,</hi> might take this op<g ref="char:EOLhyphen"/>portunity to attempt ſomething againſt the Cabbine, requeſted the Maſter of this Cabbine to take all imaginable care for its preſerva<g ref="char:EOLhyphen"/>tion. I had almoſt forgotten one thing that hath occaſioned much diſcourſe amongſt us; a Loyal Officer made an ingenious Speech, containing a ſhort and true Account of our Affairs: It was condemned by ſome, although others think it will prove ſomewhat like a late Treatiſe, called, <hi>The Growth of Mahometaniſm,</hi> which when firſt Publiſhed, was generally condemned as a deſign falſly to aſperſe the Captains Favourites, but in ſhort time we found the thing too true. I ſhould have told you alſo, that while the Councel of Officers were inquiring into this Plot, ſome came on Board us from on Board the <hi>Harp,</hi> and ac<g ref="char:EOLhyphen"/>quainted our Councel, that Ship alſo was in danger to be Betrayed to the <hi>Algerines:</hi> We are informed, that the <hi>Algerines,</hi> by the help of the <hi>Mufty</hi> and his Agents, have got a Stout Ship that Rides near us, called, The <hi>Eagle,</hi> to be ſo Betrayed by the Captains Officers, that it muſt ſhortly fall into their hands. As for our Lieutenant, he at preſent Sayles in the <hi>Lyon,</hi> but is expected on Board us; I ſup<g ref="char:EOLhyphen"/>poſe his abſence will be more welcome to them, then his preſence to us: juſt as I was finiſhing this Letter, I ſaw the Sayles flocking about the Main-Maſt, whereupon I went to enquire the reaſon, and found them with great amazement and admiration reading an Order of the Captains for diſcharging this Councel of Officers, and calling a New one, which are not to meet in the Old Cabbin, which they have done time out of mind, but in the Aca<g ref="char:EOLhyphen"/>demy, a ſmall Cabbin in a more remote part of the Ship; this unexpected and prodigious News filled the Loyal Saylers with ſad hearts and dejected countenances, yea, the Heavens have put on Mourning, appearing Dark and Gloomy, and the Sun not ſeen for three or four days together. Thus I have given you a ſhort but impartial account of all or moſt of the material things that have fallen out ſince my laſt.</p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
